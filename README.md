@@ -1,3 +1,5 @@
+This repository serves the purpose of maintaining notes with examples for studying for Docker Certified Associate examination.
+
 ## Core Docker Concepts
 * Docker Community Edition Installation and Configuration
 * Introduction to Docker Community Edition
